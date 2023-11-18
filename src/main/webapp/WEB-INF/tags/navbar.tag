@@ -20,7 +20,7 @@
             </ul>
 
             <ul id="nav-mobile" class="sidenav">
-                <li class="active"><a href="."><i class="material-icons left">home</i> Home</a></li>
+                <li class="active"><a href="."><i class="material-icons left">home</i> HomePage</a></li>
                     <% if (currentUser == null) {%>
                 <li><a href="./register"><i class="material-icons left">person_add</i> Register</a></li>
                 <li><a href="./login"><i class="material-icons left">exit_to_app</i> Login</a></li>
